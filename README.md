@@ -1,7 +1,7 @@
 # sociali
 Installation:<br />
 1.	Clone the GIT repository<br />
-URL: https://github.ccs.neu.edu/joyeshk/sociali.git<br />
+URL: https://github.com/abhishekravi/sociali.git<br />
 2.	Install nodejs from https://nodejs.org/en/<br />
 3.	Install mongo DB from https://www.mongodb.com<br />
 4.	After pulling the code from GIT go to the root directory and run the command ‘npm install’<br />
